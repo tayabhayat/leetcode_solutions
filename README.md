@@ -50,12 +50,14 @@ Example:
 
 ## 📊 Progress
 
-| Difficulty |      Solved |
-| ---------- | ----------: |
-| 🟢 Easy    | Updating... |
-| 🟡 Medium  | Updating... |
-| 🔴 Hard    | Updating... |
-| **Total**  | Updating... |
+<!-- STATS_START -->
+| Difficulty | Solved |
+|------------|-------:|
+| 🟢 Easy | Updating... |
+| 🟡 Medium | Updating... |
+| 🔴 Hard | Updating... |
+| **Total** | Updating... |
+<!-- STATS_END -->
 
 ## 🛠️ Languages
 
