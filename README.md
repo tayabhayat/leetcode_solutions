@@ -55,8 +55,8 @@ Example:
 |------------|-------:|
 | 🟢 Easy | 25 |
 | 🟡 Medium | 7 |
-| 🔴 Hard | 1 |
-| **Total** | **33** |
+| 🔴 Hard | 2 |
+| **Total** | **34** |
 
 <!-- STATS_END -->
 
