@@ -54,9 +54,9 @@ Example:
 | Difficulty | Solved |
 |------------|-------:|
 | 🟢 Easy | 40 |
-| 🟡 Medium | 11 |
+| 🟡 Medium | 12 |
 | 🔴 Hard | 2 |
-| **Total** | **53** |
+| **Total** | **54** |
 
 <!-- STATS_END -->
 
