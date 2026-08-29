@@ -1,0 +1,2 @@
+
+select e.name, b.bonus from employee e LEFT join bonus b on b.empid = e.empid where (b.bonus < 1000 OR b.bonus IS NULL)
