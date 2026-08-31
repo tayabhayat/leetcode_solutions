@@ -53,10 +53,10 @@ Example:
 <!-- STATS_START -->
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 64 |
+| 🟢 Easy | 65 |
 | 🟡 Medium | 28 |
 | 🔴 Hard | 3 |
-| **Total** | **95** |
+| **Total** | **96** |
 
 <!-- STATS_END -->
 
